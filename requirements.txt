@@ -1,0 +1,6 @@
+# Phase 1 – basic Python libraries
+# No external packages required yet
+
+# Phase 2 planned:
+pandas
+matplotlib
