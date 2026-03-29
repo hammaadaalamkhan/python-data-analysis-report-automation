@@ -6,13 +6,12 @@ It demonstrates core programming skills, including file handling, modular code d
 
 ## Project Management
 
-The project is divided into three phases will following structure. I will try to use Jira (minimally) for project management.
+The project is divided into three phases will following structure.
 
 Phase 1: Setup & Basic CSV Handling
 Phase 2: Data Analysis & Automated Reports
 Phase 3: Optional Dashboards / Enhancements
 
-![alt text](jira_initial_setup.png)
 
 
 ## Features (Planned)
