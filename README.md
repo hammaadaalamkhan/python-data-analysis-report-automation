@@ -12,9 +12,7 @@ Phase 1: Setup & Basic CSV Handling
 Phase 2: Data Analysis & Automated Reports
 Phase 3: Optional Dashboards / Enhancements
 
-[alt text](Screenshots/jira_initial_setup.png)
-
-
+![alt text](jira_initial_setup.png)
 
 
 ## Features (Planned)
