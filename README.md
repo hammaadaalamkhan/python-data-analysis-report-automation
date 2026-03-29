@@ -4,6 +4,19 @@
 The **Python Data Processing and Report Generator** is a beginner-friendly Python project that automates reading and processing CSV data and generates structured reports.  
 It demonstrates core programming skills, including file handling, modular code design, and automation, making it ideal for portfolio projects in IT Ausbildung or junior developer applications.
 
+## Project Management
+
+The project is divided into three phases will following structure. I will try to use Jira (minimally) for project management.
+
+Phase 1: Setup & Basic CSV Handling
+Phase 2: Data Analysis & Automated Reports
+Phase 3: Optional Dashboards / Enhancements
+
+[alt text](Screenshots/jira_initial_setup.png)
+
+
+
+
 ## Features (Planned)
 - Read CSV data from input files  
 - Calculate totals, averages, and summaries  
